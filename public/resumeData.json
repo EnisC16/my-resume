@@ -1,0 +1,215 @@
+{
+  "main": {
+    "name": "Enis Cetin",
+    "occupation": "",
+    "description": "I eat, sleep and breathe code.",
+    "image": "profilePic.jpeg",
+    "bio": "Hi there! I am Enis! As a developer I've worked both with startups and large corporations to help build & scale their companies. I got my first job as a developer 6 years ago as a student and realized that I learn much more in my job then I did in university. So I made a choice... I started a full-time job as a software developer and did my bachelor degree at the same time. It was quiet tough, because I needed to travel a lot for the job but I loved it. I love to learn as much as possible. And I like to be challanged.",
+    "contactmessage": "Get in touch with me!",
+    "email": "enis.c16@outlook.com",
+    "phone": "+49 1722672631",
+    "address": {
+      "street": "Theodor-Heuss-Str. 6",
+      "city": "Hanau",
+      "state": "Hessen",
+      "zip": "63457"
+    },
+    "website": "",
+    "resumedownload": "http://test.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/enis.cetin.3367/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/enis-c-962854162/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/enisc_dev/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EnisC16",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Applied Sciences Frankfurt - Germany",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "September 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "CloudIdeas GmbH",
+        "title": "Software Developer",
+        "years": "January 2017 - Present",
+        "description": "Mainly customized the CRM platform Salesforce for customer needs using Apex, HTML, CSS, Javascript and Lightning Web Components."
+      },
+      {
+        "company": "E-Commerce",
+        "title": "Main-Developer",
+        "years": "December 2020",
+        "description": "Developing of an E-Commerce Web Application (design like Amazon) using React.js and Firebase. The Web app is hosted on Firebase (https://clone-f05ed.web.app/)"
+      },
+      {
+        "company": "ChatIn",
+        "title": "Main-Developer",
+        "years": "January 2021",
+        "description": "Developing of a Chat Application in React Native. Firebase is used as a backend."
+      },
+      {
+        "company": "Resume",
+        "title": "Main-Developer",
+        "years": "February 2021",
+        "description": "I developed my resume as a Web App using React.js. The Web App is hosted on Heroku."
+      },
+      {
+        "company": "Direkt-Gruppe",
+        "title": "Lead-Developer",
+        "years": "February 2020 - September 2020",
+        "description": "Technical management of the SAP developer team for the development and design of an individual application for the mobile processing of goods management for the field service. Instruction of the developer in the Salesforce-specific structure, language and architecture."
+      },
+      {
+        "company": "Télefonica",
+        "title": "Team-Developer",
+        "years": "September 2018 - November 2019",
+        "description": "Most of the time I worked on building a custom CPQ in Salesforce Lightning. Besides that I connected Salesforce with COMS using Rest API and created a Java Client which reacts to Kafka events and inserts data to Salesforce."
+      },
+      {
+        "company": "StudierendenGesellschaft e.V.",
+        "title": "Team-Developer",
+        "years": "January 2018 - September 2018",
+        "description": "100% customization of customer-specific requirements with regard to a value protection clause logic with classes, triggers and Visualforce Pages. High degree of complexity, since various customizations were already available on the Salesforce.com platform. Difficulty of integration in the team mastered."
+      },
+      {
+        "company": "Bewotec GmbH",
+        "title": "Main-Developer",
+        "years": "January 2018 - August 2018",
+        "description": "Created an batchable Account trigger. Designed and developed an automated chatter post process. Developed an Lightning component for drect and indirect contacts. Created a Webpage where visitors register themself for trainings. Also developed a Visualforce page for showing Case objects in a hierarchy structure."
+      },
+      {
+        "company": "Werbezeichen AG",
+        "title": "Lead-Developer",
+        "years": "August 2017 - December 2017",
+        "description": "Generating of an opportunity and and Visualforce PDFs. The Client was also using Sage LIVE and I created a Visualforce page from where the client can choose orders, which should be included in Sage invoices."
+      },
+      {
+        "company": "Daycare Portal",
+        "title": "Main-Developer",
+        "years": "August 2016 - December 2016",
+        "description": "I developed a public Visualforce page where some data is shown on a map by entering a postal code. For this the Google API was used. A contact formular is also implemented in the page. (https://www.pflegesuche.daspflegeportal.de)"
+      },
+      {
+        "company": "RaspberryPi",
+        "title": "Main-Developer",
+        "years": "November 2015 - January 2016",
+        "description": "Developing of a motion detector using a RaspberryPi, Java and MySQL. When motions was detected an email was send to the user and the timestamp was inserted into a database."
+      },
+      {
+        "company": "Lesson planner",
+        "title": "Main-Developer",
+        "years": "September 2015 - Oktober 2015",
+        "description": "I developed a lesson planner using Java and MySQL. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Apex",
+        "level": "100%"
+      },
+      {
+        "name": "Visualforce",
+        "level": "100%"
+      },
+      {
+        "name": "Salesforce Lightning",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "15%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "AWS",
+        "level": "65%"
+      },
+      {
+        "name": "Heroku",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chat Application (React Native)",
+        "category": "",
+        "image": "chat.png",
+        "url": "https://chatin-70ca1.web.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://clone-f05ed.web.app/"
+      },
+      {
+        "title": "Resume (React JS)",
+        "category": "",
+        "image": "resume.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Enis is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Enis has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
